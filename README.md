@@ -2,4 +2,6 @@
 
 This is my typescript talk!
 
-Right now it just has my slides
+The key note is up to date the HTML and Powerpoint are from the last time I gave the talk
+
+Twitter: [@beattyml|https://twitter.com/beattyml1]
