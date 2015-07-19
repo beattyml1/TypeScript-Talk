@@ -8,6 +8,8 @@ The key note is up to date the HTML and Powerpoint are from the last time I gave
 
 Twitter: [@beattyml](https://twitter.com/beattyml1)
 
+Website: <http://beattyml1.github.io/>
+
 Company: [Net Health](http://www.nhsinc.com/)
 
 ## TypeScript Learning and Pitfall Articles
