@@ -4,13 +4,13 @@ This is my typescript talk!
 
 The key note is up to date the HTML and Powerpoint are from the last time I gave the talk
 
-# Me
+## Me
 
 Twitter: [@beattyml](https://twitter.com/beattyml1)
 
 Company: [Net Health](http://www.nhsinc.com/)
 
-# TypeScript Learning and Pitfall Articles
+## TypeScript Learning and Pitfall Articles
 
 TypeScript Homepage: <http://www.typescriptlang.org/]>
 
@@ -20,7 +20,7 @@ AMD Dependency Article: <https://www.stevefenton.co.uk/2014/10/typescript-amd-de
 
 Usage of 'this' and lamdas: <http://www.typescriptlang.org/Handbook#functions-lambdas-and-using-39this39>
 
-# Installing TypeScript
+## Installing TypeScript
 
 Install Command Line Compiler: `sudo npm i -g typescript`
 
