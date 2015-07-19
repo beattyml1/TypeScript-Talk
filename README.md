@@ -7,6 +7,7 @@ The key note is up to date the HTML and Powerpoint are from the last time I gave
 # Me
 
 Twitter: [@beattyml](https://twitter.com/beattyml1)
+
 Company: [Net Health](http://www.nhsinc.com/)
 
 # TypeScript Learning and Pitfall Articles
