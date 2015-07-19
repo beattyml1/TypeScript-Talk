@@ -18,9 +18,9 @@ Usage of 'this' and lamdas: <http://www.typescriptlang.org/Handbook#functions-la
 
 ----
 
-Install Command Line Compiler: `npm i -g typescript`
+Install Command Line Compiler: `sudo npm i -g typescript`
 
-Install File Watcher: 
+Install File Watcher: `sudo npm install -g typescript-watcher`
 
 Visual Studio 2013 (TypeScript 1.4): <http://go.microsoft.com/fwlink/?LinkID=517875&clcid=0x409>
 
